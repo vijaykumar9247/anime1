@@ -1,0 +1,14 @@
+body{
+    background-image: url('s1.jpg');
+    background-position: center;
+    background-size: 100%;
+
+}
+h1{
+    text-align: left;
+    color:rgb(225, 33, 78);
+}
+.image{
+    align-content: right ;
+    display: flex;
+}
